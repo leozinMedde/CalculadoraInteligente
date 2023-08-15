@@ -1,0 +1,12 @@
+html {
+    background-color: pink;
+    text-align: center;
+}
+
+form {
+    border-radius: 10px;
+}
+
+input {
+    border-radius: 15px;
+}
